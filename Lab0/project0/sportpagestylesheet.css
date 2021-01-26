@@ -1,0 +1,52 @@
+
+* {
+  background-color:seashell;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#title{
+  color:darkslateblue;
+  text-align:center;
+  font-family: arial, sans-serif
+}
+
+p.sportlist{
+  text-align:center;
+  font-family: arial, sans-serif
+}
+
+h1, p{
+  text-align:center;
+  font-family: arial, sans-serif
+}
+
+h1{
+  color: cornflowerblue;
+  border-bottom: 4px dotted cornflowerblue;
+}
+
+p{
+   background-color: lightcyan;
+}
+
+div {   
+  text-align:center;
+}
+
+@media only screen and (max-width: 1000px) {
+  .responsive {
+    width: 100%;
+  
+  }
+}
+
+@media only screen and (max-width: 400px){
+    .responsive{
+        width: 100%;
+    }
+}

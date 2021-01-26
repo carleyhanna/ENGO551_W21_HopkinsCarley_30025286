@@ -1,0 +1,36 @@
+.sass-box{
+    text-align: center;
+    $mybackground: paleturquoise;
+
+    $myFont: arial, sans-serif;
+    body {
+        background-color: $mybackground;
+      
+
+      font: {
+        family: Arial, sans-serif;
+        size: 18px;
+        weight: bold;
+      }
+
+      .button-basic  {
+        border: none;
+        padding: 15px 30px;
+        text-align: center;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      
+      .button-report  {
+        @extend .button-basic;
+        background-color: slateblue;
+      }
+      
+      .button-submit  {
+        @extend .button-basic;
+        background-color: slategray;
+        color: white;
+      }
+    }
+}
+
