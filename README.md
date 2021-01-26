@@ -6,6 +6,8 @@ Winter 2021 ENGO 551 Carley Hopkins 30025286
 Name: Carley Hopkins
 UCID: 30025286
 
+Link to the Youtube walkthrough: https://youtu.be/6MAgxnQp5aA
+
 This website is about my interests and hobbies.
 
 It contains 4 pages and a homepage.
@@ -24,4 +26,5 @@ Bootstrap is incorporated on every page, using the grid format to layout the hyp
 Bootstrap is also used to create a banner/jumbotron on the homepage.
 
 SCSS is used on the SCUBA page to incorporate an SCSS variable via text-align, SCSS nesting to set the background colour, and the SCSS Inheritance to create a button.
+
 
